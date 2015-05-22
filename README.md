@@ -2,9 +2,7 @@
 
 ## Codenamed "Costanza" for extremely important reasons.
 
-This engine will be used for our upcoming game, "Washington Unhinged 3D."<br/>
-However, upon completion of the aforementioned project, we will continue to renovate<br/>
-Constanza so that he may be useful for other projects.
+This engine will be used for our upcoming game, "Washington Unhinged 3D." However, upon completion of the aforementioned project, we will continue to renovate Constanza so that he may be useful for other projects.
 
 ## Specs:
 
