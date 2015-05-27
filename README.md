@@ -11,6 +11,10 @@ This engine will be used for our upcoming game, "Washington Unhinged 3D." Howeve
 3. There will be robust audio output that allows for realistic sound physics.
 4. WE WILL NOT SURPASS A RUNTIME ANALYSIS OF N^2.
 
+##Reminder!
+
+Prototype as much as you can with Evaldraw and Polydraw.
+
 ## To-Do:
 
 1. Finish setting up the repository.
