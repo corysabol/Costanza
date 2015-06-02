@@ -17,9 +17,11 @@ Prototype as much as you can with Evaldraw and Polydraw.
 
 ## To-Do:
 
-1. Finish setting up the repository.
-2. Get SDL and GLEW running on all machines.
-3. Craft a "Main.cpp" of sorts that houses a graphics window for rendering.
+1. Define the structure of the game project and assign tasks. (ALL)
+2. Create a list of desired game features and then strip it down (INIT = Daniel -> all)
+3. Finish setting up the repository. (Daniel/Cory)
+4. Get SDL and GLEW running on all machines. (Daniel)
+5. Craft a "Main.cpp" of sorts that houses a graphics window for rendering.
 
 More to-do's to come!
 
