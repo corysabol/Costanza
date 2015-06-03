@@ -25,6 +25,9 @@ Prototype as much as you can with Evaldraw and Polydraw.
 
 More to-do's to come!
 
+## Feature List
+1. Base mechanics of course.
+
 ## Team Unhinged is
 
 Cory Sabol<br/>
