@@ -9,7 +9,7 @@ This engine will be used for our upcoming game, "Washington Unhinged 3D." Howeve
 1. For now, we will focus on developing a sector-based ray casting engine.
 2. We will use SDL in tandem with GL Extension Wrangler (GLEW) for producing the graphics.
 3. There will be robust audio output that allows for realistic sound physics.
-4. WE WILL NOT SURPASS A RUNTIME ANALYSIS OF N^2.
+4. WE WILL NOT SURPASS A RUNTIME ANALYSIS OF N<sup>2</sup>.
 
 ##Reminder!
 
