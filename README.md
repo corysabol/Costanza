@@ -26,9 +26,7 @@ Prototype as much as you can with Evaldraw and Polydraw.
 More to-do's to come!
 
 ## Feature List
-1. Base mechanics
-2. Ledge grabbing
-3. Stylized period weapons (account for historical accuracy)
+See the design docs in the docs folder.
 
 ## Team Unhinged is
 
