@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## My mother saw my engine, Jerry. My engine!
 
 ## Codenamed "Costanza" for extremely important reasons.
@@ -70,4 +69,7 @@ See the design docs in the docs folder.
 Cory Sabol<br/>
 Matt Monfort<br/>
 Daniel Hill<br/>
->>>>>>> 4dc0e323e405a0da47e759f1281849d8f3bd0586
+Kevin James<br/>
+Rick Astley<br/>
+Laurel Amos<br/>
+Cookie Monster<br/>
