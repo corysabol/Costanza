@@ -16,8 +16,8 @@ namespace Utilities {
 
 	public:
 
-		unhingedShaderLoader( void );
-		~unhingedShaderLoader( void );
+		unhingedShaderLoader( void ) {}
+		~unhingedShaderLoader( void ) {}
 
 		// Creates both shaders and loads them into the program which is used in the rendering loop
 		GLuint CreateProgram( char * vertexShaderFilename, char * fragmentShaderFilename );

@@ -144,6 +144,7 @@ void Run() {
 	if ( !Init() ) {
 		printf( "Failed to initialize!\n" );
 	} else {
+
 		// Render triangle
 		RenderScene();
 

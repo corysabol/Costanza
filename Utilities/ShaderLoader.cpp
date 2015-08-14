@@ -2,9 +2,6 @@
 
 using namespace Utilities;
 
-unhingedShaderLoader::unhingedShaderLoader( void ) {}
-unhingedShaderLoader::~unhingedShaderLoader( void ) {}
-
 std::string unhingedShaderLoader::ReadShader( char * filename ) {
 
 	std::string shaderCode;
